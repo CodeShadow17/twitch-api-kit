@@ -1,4 +1,11 @@
 ```md
+![npm version](https://img.shields.io/npm/v/twitch-api-kit)
+![downloads](https://img.shields.io/npm/dw/twitch-api-kit)
+![node](https://img.shields.io/node/v/twitch-api-kit)
+![license](https://img.shields.io/github/license/CodeShadow17/twitch-api-kit)
+![stars](https://img.shields.io/github/stars/CodeShadow17/twitch-api-kit)
+![issues](https://img.shields.io/github/issues/CodeShadow17/twitch-api-kit)
+
 ### Nodejs Classes for Twitch Helix and EventSub
 
 A small, focused utility library that exposes two helpers: **Helix** for Twitch Helix API calls and **Subscribe** for creating EventSub websocket subscriptions. The classes handle API requests and subscription creation only. **WebSocket connection management and event handling must be implemented by the consumer**
